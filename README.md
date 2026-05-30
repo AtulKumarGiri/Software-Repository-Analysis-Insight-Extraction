@@ -118,5 +118,6 @@ The project demonstrates how repository activity data can be transformed into me
 ---
 
 ## Screenshots
-<img width="1920" height="869" alt="React-App-05-30-2026_10_25_PM (1)" src="https://github.com/user-attachments/assets/210e863e-1d30-4066-99ca-7b267ea79434" />
+<img width="1920" height="967" alt="React-App-05-30-2026_10_28_PM" src="https://github.com/user-attachments/assets/4b6729e1-e9b5-4011-a18f-81ee34bd30fc" />
+
 <img width="1920" height="2198" alt="React-App-05-30-2026_10_25_PM" src="https://github.com/user-attachments/assets/c26a643b-f8af-4d8a-8a49-27901c8dc9a4" />
